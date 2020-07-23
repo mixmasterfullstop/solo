@@ -28,6 +28,10 @@ dependencies:
   http: ^0.12.1
   line_awesome_icons: ^1.0.4+2
   font_awesome_flutter: ^8.8.1
+  google_nav_bar: ^2.2.0
+  floating_search_bar: ^0.3.0
+
+
 
 dev_dependencies:
   flutter_test:

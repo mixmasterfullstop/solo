@@ -201,9 +201,4 @@ image:'images/std1.jpg',
 description:'2013 model MILEAGE 97000km 4x4 manual transmission',
 price: 4900,
 ),
-
-
-
-
-
 ];
